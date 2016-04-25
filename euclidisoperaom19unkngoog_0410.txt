@@ -1,0 +1,37 @@
+ELEMENTORUM LIBER IX. 381
+
+XVII.
+
+si quotlibet numeri deinceps proportionales sunt,
+
+et extremi eorum inter se primi sunt, non erit ut
+primus ad seeundum, ita extremus ad alium aliquem.
+,,,,,, A ,,-,,-,Β Sint quotlibet numeri
+,ss-,p deinceps proportionales A,
+’ , ,Δ Ε Β, Γ, A, et eorum extremi
+'‘ffl' A, A inter se primi sint.
+dieo, non esse, ut A ad Β, ita A ad alium aliquem.
+Nam si fieri potest, sit A2B=A:E. itaque
+permutando A t A = B : E [VIL 13]. uerum A, A
+primi sunt, primi autem etiam minimi ΝΠ, 21],
+minimi autem numeri eos, qui eandem rationem ha-
+bent, aequaliter metiuntur [VIL 201, praecedens prae-
+cedentem et sequens sequentem. itaque A numerum
+B metitur. est autem A : B = B : Γ. quere etiam
+B numerum Γ metitur [VII def. 20]. itaque etiam
+A numerum Γ metitur. et quoniam est B:r=r: A,
+et B numerum Γ metitur, etiam Γ numerum A me·
+titur [VII def. 20]. uerum A numerum Γ metiebatur.
+quare etiam numerum A metitur. uerum etiam se
+ipsum met‘tur. itaque A numeros A, A met'tur, qui
+inter se primi sunt3 quod fieri uon potest. ergo non
+erit ut A ad B, ita A adolium aliquem, quod erat
+demonstrandum.
+
+XVIII.
+
+Datis duobus numeris, num fieri possit, ut tertius
+eorum ‘proportionalis inuenietur, inquirere.
+
+ 
+

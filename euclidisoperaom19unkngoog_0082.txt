@@ -1,0 +1,43 @@
+ELEMENTORUM mann ¹V. 49
+
+aeque multiplices suut, et H, Θ magnitudinum Γ, Δ ,
+aliae quaeuis aeque multiplices; itaque A ε Γ = Β : A.
+
+Ergo si quattuor magnitudines proportionales sunt,
+etiam permutando proportionales erunt3 quod erat de-
+
+monstrandum.
+XVII.
+
+⁵ si compositae magnitudines proportionales sunt,
+etiam dirimendo proportionales erunt. ’
+
+Sint compositae magnitudines proportionales ΑΒ,
+ΒΕ, ΓΔ, ΔΖ, ita ut sit A323n=rA2An dico,
+etiam dirimendo esse AE: ΕΒ = ΓΖ : ΔΖ.
+
+sumantur enim magnitudinum ΑΕ, ΕΒ, ΓΖ, ΖΛ ·
+aeque multiplices ΗΘ, ΘΚ, ΛΜ, ΜΝ et magnitudi-
+num EB, ΖΔ aliae quaeuis aeque multiplices K Ξ, Ν Π.
+et quoniam ΗΘ magnitudinis ΑΕ et ΘΚ magnitudi-
+¹nis ΕΒ aeque multiplex est, erit ΗΘ magnitudinis
+ΛΕ et HK magnitudinis AB acque multiplex [prop. I].
+uorum ΗΘ magnitudinis ΑΕ et AM magnitudinis ΓΖ
+aeque multiplex est. itaque HK magnitudinis AB et
+AM magnitudinis ΓΖ aeque multiplex est. rursus
+quoniam AM magnitudinis ΓΖ et MN magnitudinis
+ΖΔ aeque multiplex est, erit AM magnitudinis ΓΖ
+et ΛΝ magnitudinis ΓΔ aeque multiplex [prop. I].
+erat autem ΛΜ magnitudinis ΓΖ et HK magnitudi-
+nis ΑΒ aeque multiplex. itaque HK magnitudinis
+AB et AN magnitudinis ΓΛ aeque multiplex est.
+
+ἄρα] in ras. m. 2 V. HK] K in ras. m. 2 v; AM P.
+20. AB] B in ras m. 2 V; ΓΖ Ρ. ΛΜ] ΗΚ P. PZ]
+AB P. πάλιν ἐπεί - 21: τοῦ ΓΖ] mg. m. reo. Β, om. p.
+21. ΖΛ] ΔΖ BVp. 23. AN] ΛΗ V e corr. nr. 2. 24.
+τοῦ] (prius) bis p. AB] eras. p.
+Euclides, edd. Holborg st Margo. 11. 4
+
+ 
+

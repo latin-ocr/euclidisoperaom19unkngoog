@@ -1,0 +1,47 @@
+mnuuurouuu nuum vu. 219
+
+Sint quattuor numeri proportionales A, B, Γ, Δ,
+ite ut eit A: Β == I': A. dieo, esse etium permutatim
+A2P=B:A. ’
+
+A nam quoniam est A: Β == Γ t A, quae
+“ “ · pers uel partes eet A numeri Β, eudem pers
+uel portes erit etiem Γ numeri A [def. 20]ss
+
+A itaque permutatim quoe pers uel portes
+
+v·
+
+Β “ est A numeri Γ, eadem pars uel portes
+
+Γ est etium Β numeri A [prop. X]. ergo
+· A: Γπ Β z A [def. 20]; quod erut de-
+
+monstrandum. ¹ ο
+
+XIV.
+
+Si quotlibet numeri deti eunt et elii iis numero
+aequales bini simul ooniunoti et in eedem proportione,
+. etiem ex aequo in eadem proportione erunt.
+
+Sint quotlibet numeri A, Β, Γ et alii iis numero
+aequales bini simul ooniunoti in eadem proportione
+
+l A l l Δ l
+
+l--B—-l l-—····ff
+
+l—-l l—-l
+
+Γ
+
+A, E, Z, ite ut sit A2B-A2E et B2F=E:Z.
+dieo, esse etiem ex aequo A ε Γ == A ε Ζ.
+nem quoniam est A: Β == A ε Ε, permutatim erit
+A :A == Β : E [prop. XIII]. rursus quoniam eet
+Β : Γ = E: Z,
+permutatim erit ΒεΒ = Γ :Z [id.]. sed ΒεΒ == A: A.
+
+ 
+

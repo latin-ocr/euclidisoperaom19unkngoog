@@ -1,0 +1,36 @@
+' attuariorum amaa v, 67
+
+Γ : E = Θ t K. 'quare etiam Θ : K == Λ : M [prop.XI], ⁸
+et permutando [prop. XVI] Θ 2 Λ = K t Μ. sed de-
+monstratum est, esse etiam H : Θ = M: N. iam quo-
+niam datae sunt tres magnitudines H, Θ, Λ et aliae
+iis numero aequales K, M, N, binae simul eoniunotae
+in eadem proportione, et perturbata est earum pro-
+portio ·[def. 18], ex aequo, si Η magnitudinem Λ
+superat, etiam· K magnitudinem N superat, et si ae· ’
+qualis, aequalis est, et si minor, minor [prop. ΧΧΠ.
+et H, K magnitudinum A, Δ aeque multiplices sunt,
+A, N autem magnitudinum Γ,Ζ. itaque A:F=A:Z
+[def. 5].
+
+Ergo si datae sunt tres magnitudines et aliae iis
+
+numero aequales, binae simul coniunctae in eadem
+proportione, et perturbata est earum proportio, etiam
+ex aequo in eadem proportione erunt3 quod erat de·
+
+- monstrandum.
+, XXIV.
+
+Si prima ad secundam eandem rationem habet
+ao tertia ad quartam, et etiam quinta ad secundam
+eandem rationem habet ae sexta ad quartam, etiam ,
+compositae prima et quinta ad secundam eandem
+rationem habebunt ae tertia sextaque ad quartam.
+
+ἰσάκις πολλαπλάσια add. Bp. 12. Γ] corr. ex B m. 2 P.
+14. καὶ ἒν Ρ; καί add. in mg. m. 2 F, sed enan. 16. ἔσται]
+om. P. 18. ἔχῃ] ἔχει Ρ.
+
+ 
+

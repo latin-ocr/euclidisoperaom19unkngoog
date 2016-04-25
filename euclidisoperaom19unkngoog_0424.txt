@@ -1,0 +1,49 @@
+summarorium umus rx, 395
+
+XXIV.
+
+Si a numero pari par subtrahitur, reliquus par erit.
+Nam a pari numero AB par subtrahatur ΒΓ. dicu,
+reliquum ΓΑ parem esse.
+
+A Γ Β
+ι---ι--ι
+
+nam quoniam AB par est, partem dimidiam habat
+[VII def. 6]. eadem de causa etiarn ΒΓ partem di-
+midiam habet. ergo etiam reliquus ΑΓ par est3 quod
+erat demonstrandum.
+
+XXV.
+
+Si a numero pari impar subtrahitur, reliquus im-
+par erit.
+
+Nam a pari numero AB impar subtrahatur ΒΓ.
+dieu, reliquum ΓΑ imparem esse.
+
+1-——1--1———t
+A Γ Δ Β
+
+subtrahatur enim a ΒΓ unitas ΓΛ. itaque AB
+par est [VII def. Π. uarum etiam AB par est. quare
+etiam reliquus ΑΔ pareat [prop. XXIV]⁸ et unitas
+
+est ΓΔ. ergo ΓΑ impar est [VII def. 7]; quod erat .
+
+demonstrandum.
+
+XXVI.
+
+Si a numero impari impar subtrahitur, reliquus
+par erit.
+
+1———1--1—-1
+
+ΑΓΔΒ
+
+Nam ab impari numero AB impar subtrahatur
+ΒΓ. diuo, reliquum ΓΑ parem esse.
+
+ 
+

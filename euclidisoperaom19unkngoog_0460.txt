@@ -1,0 +1,46 @@
+APPENDIX. 433
+
+Nam quoniam est A: B = E: Z, erit >
+A ><Z=B><E [VII, 19]. rur-
+sus quoniam est Β : Γ -- Δ : E,
+Ι erit Δ >< Γ-- Β >< E [id.]. de-
+monstratum est autem, esse etiam
+A >< Z = Β >< Β. quare etiam
+
+.A><Z=A><r. ergo erit
+
+A:I'=A:Z [V11,r9];
+quod eraI demonstrandum.
+
+v11, 31.
+
+Ἴ Aliter.
+sit numerus compositus A. dico, primum nume·
+rum eum metiri.
+Nam quoniam A composiIus est, numerus aliquis
+eum metietur, et minimus eorum, qui eum metiuntur,
+sit Β. dico, numerum Β primum esse. nam si mi·
+
+ι *A ι---ιΒ ι--ιΓ
+
+nuS, compositus est. itaque numerus aliquis eum
+metietur. metiatur numerus Γ. Itaque Γ < Β. et ⁴
+’ quoniam Γ numerum Β met‘tur‚ Β autem numerum
+A meIiIur, etIam Γ numerum A metitur, quamquam
+F<B3 quod absurdum est. itaque Β composiIus
+nonest. ergo primus3 quod erat demonstrandum.
+
+scholium aa vn, 39.
+ProposiIIOnis XXXIX.1) Cum multi numeri sint,
+
+1) Ergo hoc scholium scriptum estante VII, 20 et 22
+interpolatas. ·
+
+Iit-ulum fibri vm v φρ (ὧν IIIpatio uacuo inter Imm}
+VIII postea insert). 22. α’ p (qui numeros propp. libri VIII
+uno maiores deIneeps habeI). -
+
+Euclides, edd. Heiberg et Menge. 11. 28
+
+ 
+

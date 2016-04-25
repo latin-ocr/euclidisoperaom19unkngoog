@@ -1,0 +1,43 @@
+ELEMENTORUM LIBER VIII. 336
+
+ΧΧΙΠ.
+
+Si quattuor numeri deinceps proportionales sunt,
+et primus eubus est, etiam quartus orbus erit.
+Sint quattuor numeri deinceps proportionales A,
+B, Γ, A, et A cubus sit. dieo, etiam A eubum esee.
+nam quoniam inter A, A duo
+medii proportionales sunt numeri B,
+Γ, Α et A similes sunt solidi numeri
+ι [prop. XXI]. uerum A cubus est
+ergo etiam A cubus eet [VII def. 21];
+
+'quod erat demonstrandum.
+
+XXIV.
+
+si duo numeri inter se rationem habent, quam
+quadratus numerus ad quadratum numerum, et pri-¹
+mus quadratus est, etiam secundus quadratus erit.
+
+Duo enim numeri A, Β inter serationem habe-
+ant, quarn quadratus numerus Γ ad quadratum nu·
+merum A, et A quadratus sit. dieo, 'etiam B qua·
+drotum esee.
+
+nam quoniam Γ, A quadrati sunt, Γ, A similes
+sunt plani. itaque inter Γ, A unus
+medius proportionalis interponitur
+numerus [prop. XVIII} astantem
+P: A = A: B. quare etiam inter
+A, Β unus medius proportionalis
+interponitur numerus [prop. VIII]. et A quadratus
+est. ergo etiam B quadratus eet [prop. XXII]; quod
+erat demonstrandum.
+
+A ι--ι
+
+ιΒ
+
+ 
+

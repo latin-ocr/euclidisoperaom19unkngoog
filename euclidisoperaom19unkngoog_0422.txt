@@ -1,0 +1,42 @@
+murmuroauu mura m. 393
+
+XXII.
+
+Si quotlibet numeri impares componuntur, et mul-
+titudo eorum par est, totus par erit.
+
+Componantur enim quotlibet numeri impares nu-
+mero pares AB, ΒΓ, ΓΔ, ΔΕ. dico, totum ΑΕ pa·
+rem esse.
+
+ΑΒΓ Δ Ε
+ι--μ-Α--ι-ι
+
+nam quoniam singuli numeri AB, BF, ΓΔ, ΛΕ
+impares sunt, unitate a singulis subtracta, qui relin-
+quuntur, singuli pares erunt [VII def. 7]. quare etiam,
+numerus ex iis compositus par erit [prop. XXI]. ue-
+rum etiam multitudo unitatum par est. ergo etiam
+totus ΑΕ par est [id.]; qupd arat demonstrandum.
+
+XXIII. ·
+
+Si quotlibet numeri impares componuntur, et mul-
+titudo eorum impar est, etiam totus impar erit.
+Componantur anim quotlibet numeri impurae, quo-
+rum multitudo impar sit, AB, ΒΓ, ΓΛ. uico, etiam
+totum ΑΔ imparem eise.
+r--r-r———r—r
+A B Γ ΕΔ
+subtrahatur a ΓΔ unitas A Ε. itaque qui relin-
+quitur, ΓΕ par est [VII def. Π. uerum etiam ΓΑ
+par est [prop XXH]. quare etiam totus ΑΕ par est
+
+[prop. XXI} at ΔΕ unitas ast. ergo ΑΔ impar est
+[VII def. 7]; quod erat demonstrandum.
+
+pomp. Ἐς iuerg. irvri'ieq. ras. 1 litt. V, ἐστιν Β. 24.
+αρα] om. q. οπερ ἔδει δεῖξαι] om. qu.
+
+ 
+
